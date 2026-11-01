@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# Generated build files
+build/
+target/
+
+# Logs
+*.log
+
+# Environment secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
